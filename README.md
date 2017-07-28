@@ -5,4 +5,3 @@ You can find us at our [website]()
 
 Contact Info:
 
-questions@plannedpuppyhood.com
