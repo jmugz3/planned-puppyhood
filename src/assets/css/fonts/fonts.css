@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("https://fonts.luna1.co/proxima-nova/ProximaNova-RegWeb.eot");
+  src: url("https://fonts.luna1.co/proxima-nova/ProximaNova-RegWeb.eot#iefix") format("embedded-opentype"),
+       url("https://fonts.luna1.co/proxima-nova/ProximaNova-RegWeb.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "haptik";
+  src: url("https://fonts.luna1.co/haptik/GT-Haptik-Regular.eot");
+  src: url("https://fonts.luna1.co/haptik/GT-Haptik-Regular.eot#iefix") format("embedded-opentype"),
+       url("https://fonts.luna1.co/haptik/GT-Haptik-Regular.woff") format("woff");
+  font-weight: 400;
+}
