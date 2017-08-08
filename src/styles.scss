@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  font-family: haptik, 'Helvetica Neue', sans-serif;
+  font-size: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  cursor: inherit;
+  background-repeat: no-repeat;
+}
+
+li {
+  list-style: none;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+::selection {
+    background-color: #97d7ff;
+    color: #222a36;
+    text-shadow: none;
+}
+
+a {
+  text-decoration: none;
+  & :visited {
+    text-decoration: none;
+  }
+}
