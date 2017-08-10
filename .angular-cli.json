@@ -21,9 +21,17 @@
       "styles": [
         "styles.scss",
         "assets/css/fonts/fonts.css",
-        "assets/css/variables.scss"
+        "assets/css/variables.scss",
+        "../node_modules/@material/animation/dist/mdc.animation.min.css",
+        "../node_modules/@material/linear-progress/dist/mdc.linear-progress.min.css",
+        "../node_modules/@material/card/dist/mdc.card.min.css",
+        "../node_modules/@material/button/dist/mdc.button.min.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/@material/base/dist/mdc.base.min.js",
+        "../node_modules/@material/animation/dist/mdc.animation.min.js",
+        "../node_modules/@material/linear-progress/dist/mdc.linearProgress.min.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

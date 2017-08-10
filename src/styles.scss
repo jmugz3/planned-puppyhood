@@ -32,3 +32,14 @@ a {
     text-decoration: none;
   }
 }
+
+.mdc-card {
+  height: 350px;
+  width: 350px;
+}
+.mdc-card__media {
+  background-image: url('http://lorempixel.com/400/200/sports/');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90px;
+}
